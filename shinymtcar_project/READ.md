@@ -34,8 +34,8 @@ Suggests color may slightly correlate with driving behavior.
 
 > The variation may reflect **vantage points** or **personal observation styles**.
 
-```![shinymtcar_project](nisrinedata.png)```
-
+```<img src = "[![shinymtcar_project](nisrinedata.png)](https://github.com/nissou62/The-very-basics-of-R/blob/main/shinymtcar_project/nisrinedata.png)" width = "450")>```
+</div>
 ---
 
 # Observations by Zain
