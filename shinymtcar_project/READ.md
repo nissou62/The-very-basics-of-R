@@ -3,12 +3,12 @@
 
 ---
 
-#Overview
+# Overview
 This project explores how car speeds relate to their color based on observational data collected by three observers: Reda, Nisrine, and Zain. It highlights patterns, potential observer bias, and interesting speed trends over time.
 
 ---
 
-#Observations by Reda
+# Observations by Reda
 
 Silver, white, and red cars appeared across a wide range of speeds (low to high).
 Black and blue cars mostly stayed within moderate speeds (25–35 mph).
@@ -22,7 +22,7 @@ Suggests color may slightly correlate with driving behavior.
 
 ---
 
-#Observations by Nisrine
+# Observations by Nisrine
 
 - Analyzed data from eight car colors: black, blue, brown, gray, red, silver, white, yellow.
 - **Highest observed speeds**:
@@ -42,7 +42,7 @@ Suggests color may slightly correlate with driving behavior.
 
 ---
 
-#Observations by Zain
+# Observations by Zain
 
 - Chart shows how speeds changed over time.
 - **Trends identified**:
@@ -56,7 +56,7 @@ Suggests color may slightly correlate with driving behavior.
 ```
 
 ---
-#Conclusion
+# Conclusion
 
 This project revealed:
 
