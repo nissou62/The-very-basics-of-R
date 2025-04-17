@@ -16,9 +16,7 @@ Yellow cars were rare but often recorded at high speeds.
 The most common speed range for all colors was 25–35 mph, likely reflecting school zone regulations.
 Suggests color may slightly correlate with driving behavior.
 
-```
-![shinymtcar_project](redadata.jpg)
-```
+```![shinymtcar_project](redadata.jpg)```
 
 ---
 
@@ -36,9 +34,7 @@ Suggests color may slightly correlate with driving behavior.
 
 > The variation may reflect **vantage points** or **personal observation styles**.
 
-```
-![shinymtcar_project](nisrinedata.jpg)
-```
+```![shinymtcar_project](nisrinedata.png)```
 
 ---
 
@@ -51,10 +47,10 @@ Suggests color may slightly correlate with driving behavior.
   - Most cars remained between 25–35 mph.
   - Timing (time of day or day of week) may influence speeds.
 
-```
-![shinymtcar_project](zaindata.jpg)```
+```![shinymtcar_project](zaindata.png)```
 
 ---
+
 # Conclusion
 
 This project revealed:
