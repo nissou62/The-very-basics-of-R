@@ -17,7 +17,7 @@ The most common speed range for all colors was 25–35 mph, likely reflecting sc
 Suggests color may slightly correlate with driving behavior.
 
 ```
-![Speed Distribution by Car Color](images/redadata.png)
+![shinymtcar_project](redadata.jpg)
 ```
 
 ---
@@ -37,7 +37,7 @@ Suggests color may slightly correlate with driving behavior.
 > The variation may reflect **vantage points** or **personal observation styles**.
 
 ```
-![Speed Extremes by Observer](images/nisrinedata.png)
+![shinymtcar_project](nisrinedata.jpg)
 ```
 
 ---
@@ -52,8 +52,7 @@ Suggests color may slightly correlate with driving behavior.
   - Timing (time of day or day of week) may influence speeds.
 
 ```
-![Speed Over Time](images/zaindata.png)
-```
+![shinymtcar_project](zaindata.jpg)```
 
 ---
 # Conclusion
