@@ -16,7 +16,10 @@ Yellow cars were rare but often recorded at high speeds.
 The most common speed range for all colors was 25–35 mph, likely reflecting school zone regulations.
 Suggests color may slightly correlate with driving behavior.
 
-```![shinymtcar_project](redadata.jpg)```
+<br>
+<div align = "center">
+<img src = "https://github.com/nissou62/The-very-basics-of-R/blob/main/shinymtcar_project/nisrinedata.png" width = "450")>
+</div>
 
 ---
 
@@ -32,9 +35,10 @@ Suggests color may slightly correlate with driving behavior.
   - Zain: similar low colors, but not as low.
   - Nisrine showed slightly higher consistency for these slower colors.
 
-> The variation may reflect **vantage points** or **personal observation styles**.
-
-```<img src = "[![shinymtcar_project](nisrinedata.png)](https://github.com/nissou62/The-very-basics-of-R/blob/main/shinymtcar_project/nisrinedata.png)" width = "450")>```
+The variation may reflect **vantage points** or **personal observation styles**.
+<br>
+<div align = "center">
+<img src = "https://github.com/nissou62/The-very-basics-of-R/blob/main/shinymtcar_project/nisrinedata.png" width = "450")>
 </div>
 ---
 
@@ -47,8 +51,10 @@ Suggests color may slightly correlate with driving behavior.
   - Most cars remained between 25–35 mph.
   - Timing (time of day or day of week) may influence speeds.
 
-```![shinymtcar_project](zaindata.png)```
-
+<br>
+<div align = "center">
+<img src = "https://github.com/nissou62/The-very-basics-of-R/blob/main/shinymtcar_project/nisrinedata.png" width = "450")>
+</div>
 ---
 
 # Conclusion
