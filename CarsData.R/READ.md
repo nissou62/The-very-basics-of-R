@@ -12,6 +12,15 @@ After binding all the data together, I had to redo the histogram chart of car sp
 <div align = "center">
 <img src = "https://github.com/nissou62/The-very-basics-of-R/blob/main/speedof%20cars%20for%20data%20project.png" width = "450")>
 </div>
+I  also had to redo the scatter plot that visualizes car speed over time . Originally, the scatter plot used a continuous gradient from blue to red to represent speed. However, the updated requirements specified two key changes: (1) limit the date range to only include data from April 1st to April 15th, and (2) replace the gradient color scheme with discrete car inspired colors specifically black, white, brown, red, and grey.
+
+<br>
+<div align = "center">
+<img src = "https://github.com/nissou62/The-very-basics-of-R/blob/main/speeddatecolor.png" width = "450")>
+</div>
+
+To meet these new criteria, I filtered the dataset to include only the desired date range and then categorized the speed into five bins. Each bin was assigned a car color to create a clear, visually distinctive scatter plot that aligned with the updated visual theme.
+
 
 # Reflection Paragraph:
 This assignment taught me the importance of data consistency and cleanliness, especially when multiple people are collecting data separately. I learned how essential it is to have a shared structure and naming convention before beginning data collection. Even small inconsistencies like a tab in a column name or inconsistent capitalization can cause major issues when trying to combine data. The wrangling process in R helped reinforce skills with functions like rename(), and bind_rows(), which are crucial for working with messy real world datasets.
