@@ -1,7 +1,4 @@
-#Shiny Project: Car Speeds by Color
- **Shiny App Link**: [Click to view dashboard](https://reda-mahboub.shinyapps.io/Student_Lifestyle_App/)
 
----
 
 # Overview
 This project explores how car speeds relate to their color based on observational data collected by three observers: Reda, Nisrine, and Zain. It highlights patterns, potential observer bias, and interesting speed trends over time.
