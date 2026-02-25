@@ -1,3 +1,8 @@
+
+# Shiny Project: Car Speeds by Color
+ **Shiny App Link**: [Click to view dashboard](https://reda-mahboub.shinyapps.io/Student_Lifestyle_App/)
+
+---
 # Load necessary libraries
 library(readxl)
 library(dplyr)
